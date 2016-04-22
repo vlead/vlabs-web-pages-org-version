@@ -1,2 +1,5 @@
-#+title: Landing page of the Virtual Labs  
+#+title:  Virtual Labs Landing page
 #+SETUPFILE: ./org-templates/level-0.org
+
+
+* Welcome to new Virtual labs landing page
