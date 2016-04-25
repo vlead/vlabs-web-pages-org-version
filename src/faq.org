@@ -24,7 +24,7 @@ There are two types of Virtual Labs:
 *Simulation Based Virtual Labs:*  In these Virtual Labs, the experiments
 are modeled using mathematical equations.  The simulations are carried out
 remotely at a high end server, and the results are communicated to the student
-over the internet.  This class of Virtual Labs, at best, mimics the real-world
+over the internet. This class of Virtual Labs, at best, mimics the real-world
 scenarios/experiments.  Simulation based Virtual Labs are scalable and can
 cater to a large number of simultaneous users.
 
