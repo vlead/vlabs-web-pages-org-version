@@ -1,5 +1,19 @@
 #+title:  Virtual Labs Landing page
 #+SETUPFILE: ./org-templates/level-0.org
-
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style/css/style.css">
 
 * Welcome to new Virtual labs landing page
+** Featured Labs
+
+|                                |                                          |                                |                         |                           |
+|--------------------------------+------------------------------------------+--------------------------------+-------------------------+---------------------------|
+| *Problem Solving*              | *Biotechnology & Biomedical Engineering* | *Data Structures*              | *Chemical Engineering*  | *FAB laboratory*          |
+| Welcome to the Problem         | Welcome to the Bio-Medical Signal and    | To understand how the          | Welcome to the Chemical | Welcome to FAB laboratory |
+| Solving Virtual Lab            | Image Processing Lab                     | choice of data structures      | Engineering Lab!        |                           |
+| developed at IIIT Hyderabad.   | developed at IIT Roorkee...              | can lead to efficient          |                         |                           |
+| The interactive experiments... |                                          | implementations of algorithms. |                         |                           |
+|--------------------------------+------------------------------------------+--------------------------------+-------------------------+---------------------------|
+|                                |                                          |                                |                         |                           |
+#+BEGIN_HTML
+
+#+END_HTML
