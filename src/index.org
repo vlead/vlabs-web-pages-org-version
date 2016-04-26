@@ -3,7 +3,9 @@
 #+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="text/css" href="/style/css/main.css" />
 #+CAPTION: banner
 #+LABEL:   fig:banner-01
-[[./style/img/banner_img.png]]
+
+#+ATTR_HTML: :width 840 :height 150
+[[file:./style/img/banner_img.jpg]]
 
 
 * Featured Labs
