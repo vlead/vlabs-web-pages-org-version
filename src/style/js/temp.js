@@ -9,7 +9,7 @@ $('.c-dropdown').hover(function(){
 
 function breadCrumbs(url){
   var ls = url.split("//")[1].split("/");
-  var gitSource = "https://github.com/vlead/vlabs-dev-pages/tree/master/src";
+  var gitSource = "https://github.com/vlead/vlabs-web-pages-version2/blob/master/src/";
   ls[0] = "Home";
   var result = "<ul class='breadcrumb'>";
   if(ls.length == 2){
