@@ -11,11 +11,10 @@
 
 
 
-
-
-
 #+HTML_HEAD:  <link rel="stylesheet" type="text/css" href="/style/css/bootstrap.min.css" />
-#+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="text/css" href="/style/css/index.css" />
-#+HTML_HEAD_EXTRA:  <link rel="icon" type="image/png" href="style/img/favicon/popl.png" />
+#+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="text/css" href="/style/css/style.css" />
+#+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="text/css" href="/style/css/main.css" />
+#+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="image/png" href="/style/img/banner_img.png" />
+
 
 

@@ -1,19 +1,19 @@
 #+title:  Virtual Labs Landing page
 #+SETUPFILE: ./org-templates/level-0.org
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style/css/style.css">
+#+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="text/css" href="/style/css/main.css" />
+#+CAPTION: banner
+#+LABEL:   fig:banner-01
+[[./style/img/banner_img.png]]
 
-* Welcome to new Virtual labs landing page
-** Featured Labs
 
-|                                |                                          |                                |                         |                           |
-|--------------------------------+------------------------------------------+--------------------------------+-------------------------+---------------------------|
-| *Problem Solving*              | *Biotechnology & Biomedical Engineering* | *Data Structures*              | *Chemical Engineering*  | *FAB laboratory*          |
-| Welcome to the Problem         | Welcome to the Bio-Medical Signal and    | To understand how the          | Welcome to the Chemical | Welcome to FAB laboratory |
-| Solving Virtual Lab            | Image Processing Lab                     | choice of data structures      | Engineering Lab!        |                           |
-| developed at IIIT Hyderabad.   | developed at IIT Roorkee...              | can lead to efficient          |                         |                           |
-| The interactive experiments... |                                          | implementations of algorithms. |                         |                           |
-|--------------------------------+------------------------------------------+--------------------------------+-------------------------+---------------------------|
-|                                |                                          |                                |                         |                           |
-#+BEGIN_HTML
-
-#+END_HTML
+* Featured Labs
+** [[http://ps-iiith.vlabs.ac.in/][Problem Solving]]
+   Welcome to the Problem Solving Virtual Lab developed at IIIT Hyderabad. The interactive experiments...
+** [[http://bmsip-iitr.vlabs.ac.in/][Biotechnology & Biomedical Engineering]]
+   Welcome to the Bio-Medical Signal and Image Processing Lab developed at IIT Roorkee...
+** [[http://cse01-iiith.vlabs.ac.in/][Data Structures]]
+   Data structures lab has experiments about how several fundamental algorithms work, particularly those concerned with sorting and searching.
+** [[http://ce-iitb.vlabs.ac.in/][Chemical Engineering]]
+   A collection of undergraduate experiments in Chemical Engineering.
+** [[http://fab-coep.vlabs.ac.in/][FAB Laboratory]]
+   Welcome to FAB LAB. Let us understand and implement anything and everything using 3D machining...
