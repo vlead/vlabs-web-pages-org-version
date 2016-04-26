@@ -62,7 +62,7 @@
 
 (defvar style `("style"
   :base-directory ,style-dir
-  :base-extension "css\\|js\\|png"
+  :base-extension "css\\|js\\|jpg\\|png"
   :publishing-directory ,(concat pub-dir "style/")
   :recursive t
   :publishing-function org-publish-attachment
