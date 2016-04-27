@@ -1,21 +1,66 @@
 #+title:  Virtual Labs Landing page
 #+SETUPFILE: ./org-templates/level-0.org
 #+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="text/css" href="/style/css/main.css" />
-#+CAPTION: banner
-#+LABEL:   fig:banner-01
 
 #+ATTR_HTML: :width 840 :height 150
 [[file:./style/img/banner_img.jpg]]
 
 
 * Featured Labs
+
 ** [[http://ps-iiith.vlabs.ac.in/][Problem Solving]]
+   #+begin_theorem
    Welcome to the Problem Solving Virtual Lab developed at IIIT Hyderabad. The interactive experiments...
+   #+end_theorem
+   #+ATTR_HTML: :width 23  :vertical-align text-bottom;
+   [[http://ps-iiith.vlabs.ac.in/][file:./style/img/flask.png]]
+   LAB
+   #+ATTR_HTML: :width 23  :vertical-align text-bottom;
+   [[file:./style/img/chat.png]]
+   LECTURE
+
 ** [[http://bmsip-iitr.vlabs.ac.in/][Biotechnology & Biomedical Engineering]]
+   #+begin_theorem
    Welcome to the Bio-Medical Signal and Image Processing Lab developed at IIT Roorkee...
+   #+end_theorem
+   #+ATTR_HTML: :width 23  :vertical-align text-bottom;
+   [[http://ps-iiith.vlabs.ac.in/][file:./style/img/flask.png]]
+   LAB
+   #+ATTR_HTML: :width 23  :vertical-align text-bottom;
+   [[file:./style/img/chat.png]]
+   LECTURE
+
 ** [[http://cse01-iiith.vlabs.ac.in/][Data Structures]]
+   #+begin_theorem
    Data structures lab has experiments about how several fundamental algorithms work, particularly those concerned with sorting and searching.
+   #+end_theorem
+   #+ATTR_HTML: :width 23  :vertical-align text-bottom;
+   [[http://ps-iiith.vlabs.ac.in/][file:./style/img/flask.png]]
+   LAB
+   #+ATTR_HTML: :width 23  :vertical-align text-bottom;
+   [[file:./style/img/chat.png]]
+   LECTURE
+
 ** [[http://ce-iitb.vlabs.ac.in/][Chemical Engineering]]
+   #+begin_theorem
    A collection of undergraduate experiments in Chemical Engineering.
+   #+end_theorem
+   #+ATTR_HTML: :width 23  :vertical-align text-bottom;
+   [[http://ps-iiith.vlabs.ac.in/][file:./style/img/flask.png]]
+   LAB
+   #+ATTR_HTML: :width 23  :vertical-align text-bottom;
+   [[file:./style/img/chat.png]]
+   LECTURE
+
 ** [[http://fab-coep.vlabs.ac.in/][FAB Laboratory]]
+   #+begin_theorem
    Welcome to FAB LAB. Let us understand and implement anything and everything using 3D machining...
+   #+end_theorem
+   
+   #+ATTR_HTML: :width 23  :vertical-align text-bottom;
+   [[http://ps-iiith.vlabs.ac.in/][file:./style/img/flask.png]]
+   LAB
+   #+ATTR_HTML: :width 23  :vertical-align text-bottom;
+   [[file:./style/img/chat.png]]
+   LECTURE
+
