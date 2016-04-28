@@ -13,7 +13,7 @@ a {
 p {
     color: #888;
     font-size: 16px;
-    min-height: 190px !important;
+    min-height: 20px !important;
 }
 #content {
     clear: both;
@@ -69,7 +69,7 @@ hr {
 }
 #outline-container-sec-1{
     position: relative;
-    top: -42px;
+    top: -10px;
     width: 2300px;
 }
 #outline-container-sec-1-2 {
