@@ -18,9 +18,7 @@
    LECTURE
 
 ** [[http://bmsip-iitr.vlabs.ac.in/][Biotechnology & Biomedical Engineering]]
-   #+begin_theorem
    Welcome to the Bio-Medical Signal and Image Processing Lab developed at IIT Roorkee...
-   #+end_theorem
    #+ATTR_HTML: :width 23  :vertical-align text-bottom;
    [[http://ps-iiith.vlabs.ac.in/][file:./style/img/flask.png]]
    LAB
@@ -29,9 +27,7 @@
    LECTURE
 
 ** [[http://cse01-iiith.vlabs.ac.in/][Data Structures]]
-   #+begin_theorem
    Data structures lab has experiments about how several fundamental algorithms work, particularly those concerned with sorting and searching.
-   #+end_theorem
    #+ATTR_HTML: :width 23  :vertical-align text-bottom;
    [[http://ps-iiith.vlabs.ac.in/][file:./style/img/flask.png]]
    LAB
@@ -40,9 +36,7 @@
    LECTURE
 
 ** [[http://ce-iitb.vlabs.ac.in/][Chemical Engineering]]
-   #+begin_theorem
    A collection of undergraduate experiments in Chemical Engineering.
-   #+end_theorem
    #+ATTR_HTML: :width 23  :vertical-align text-bottom;
    [[http://ps-iiith.vlabs.ac.in/][file:./style/img/flask.png]]
    LAB
@@ -51,9 +45,7 @@
    LECTURE
 
 ** [[http://fab-coep.vlabs.ac.in/][FAB Laboratory]]
-   #+begin_theorem
    Welcome to FAB LAB. Let us understand and implement anything and everything using 3D machining...
-   #+end_theorem
    
    #+ATTR_HTML: :width 23  :vertical-align text-bottom;
    [[http://ps-iiith.vlabs.ac.in/][file:./style/img/flask.png]]
