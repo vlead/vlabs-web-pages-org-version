@@ -4,5 +4,5 @@
 
 * Introduction
   This document describes how to generate HTML files and apply CSS and
-  JavaScript from org.
+  JavaScript using Org.
 * Steps
