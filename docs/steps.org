@@ -19,7 +19,7 @@ You can either:
 - copy the "setup file" of the chosen theme to the directory of your Org files,
 
   #+begin_src org :exports code
-  ,#+SETUPFILE: THEME-NAME.setup
+  #+SETUPFILE: THEME-NAME.setup
   #+end_src
 
   or
@@ -28,7 +28,7 @@ You can either:
   repository)
 
   #+begin_src org :exports code
-  ,#+SETUPFILE: path/to/Git/repo/setup/THEME-NAME.setup
+  #+SETUPFILE: path/to/Git/repo/setup/THEME-NAME.setup
   #+end_src
 
  Then export your Org mode file to HTML with =org-html-export-to-html= or with =C-c
@@ -40,7 +40,7 @@ In order to use the =level-0= style, just copy the [[file:../src/org-templates/l
 your project and link to it this way:
 
 #+begin_src org :exports code
-,#+SETUPFILE: ./org-templates/level-0.org
+#+SETUPFILE: ./org-templates/level-0.org
 #+end_src
 
 If you prefer, you can add the content of the setup file at the beginning of
@@ -48,7 +48,6 @@ your Org file instead:
 
 #+begin_src org :exports code :tangle ../src/org-templates/level-0.org
 #+HTML_HEAD:  <link rel="stylesheet" type="text/css" href="/style/css/bootstrap.min.css" />
-#+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="text/css" href="/style/css/style.css" />
 #+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="text/css" href="/style/css/main.css" />
 #+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="image/png" href="/style/img/banner_img.png" />
 #+end_src
@@ -60,7 +59,6 @@ Here a local version (using relative paths):
 #+begin_src org :exports code :tangle ../src/org-templates/level-0.org
 # -*- mode: org; -*-
 #+HTML_HEAD:  <link rel="stylesheet" type="text/css" href="/style/css/bootstrap.min.css" />
-#+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="text/css" href="/style/css/style.css" />
 #+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="text/css" href="/style/css/main.css" />
 #+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="image/png" href="/style/img/banner_img.png" />
 #+end_src
