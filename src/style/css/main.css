@@ -1,3 +1,5 @@
+
+    
 h3
 {
     font-size: 1.4em;
@@ -13,7 +15,7 @@ a {
 p {
     color: #888;
     font-size: 16px;
-    min-height: 20px !important;
+    margin: 0px 0px 10px;
 }
 #content {
     clear: both;
@@ -28,7 +30,9 @@ p {
     margin-left: 30px;
     margin-right: 50px;
 }
-
+hr{
+    background:#CCCCCC !important;  height: 1px;  margin-bottom: 10px !important;margin-top: 12px;
+}
 h2 {
     
     font-size: 24px;
@@ -105,5 +109,33 @@ td {
     width: 23px;
     vertical-align: text-bottom;
 }
-
+#flask1 {
+    top: -303px;
+    left: 230px;
+}
+#chat1{
+    top: -303px;
+    left: 230px;
+}
+.lab1{
+    float: left;
+    position: relative;
+    width: 30px;
+    top: 0px;
+}
+.lecture1{
+    top: -38px;
+    position: relative;
+    float: middle;
+    width: 30px;
+}
+#lab-text1 {
+    
+    color: #888;
+}
+#lecture-text1{
+    color: #2C99CE;
+    position: relative;
+    float: right;
+    top: -120px;
 }
