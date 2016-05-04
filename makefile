@@ -17,7 +17,7 @@ clean:
 	rm -rf ${BUILD}
 
 pull:
-	git pull origin master
+	git pull origin develop
 
 #export: pull publish
 #	ssh -o "StrictHostKeyChecking no" ${DEST_HOST} ${REMOVE_COMMAND}
