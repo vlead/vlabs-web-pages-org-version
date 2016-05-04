@@ -1,0 +1,8 @@
+#+title:  Steps to generate HTML using Org
+#+SETUPFILE: ./org-templates/level-0.org 
+
+
+* Introduction
+  This document describes how to generate HTML files and apply CSS and
+  JavaScript from org.
+* Steps
