@@ -117,25 +117,15 @@ td {
     top: -303px;
     left: 230px;
 }
-.lab1{
+.lab1, .lab2, .lab3, .lab4, .lab5{
     float: left;
     position: relative;
     width: 30px;
     top: 0px;
 }
-.lecture1{
+.lecture1, .lecture2, .lecture3, .lecture4, .lecture5{
     top: -38px;
     position: relative;
     float: middle;
     width: 30px;
-}
-#lab-text1 {
-    
-    color: #888;
-}
-#lecture-text1{
-    color: #2C99CE;
-    position: relative;
-    float: right;
-    top: -120px;
 }

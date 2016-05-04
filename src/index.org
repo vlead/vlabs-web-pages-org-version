@@ -26,47 +26,45 @@
 
    #+ATTR_HTML: :width 25  :vertical-align text-bottom :class lab2
    [[http://ps-iiith.vlabs.ac.in/][file:./style/img/flask.png]]
-   LAB
    #+ATTR_HTML: :width 25  :vertical-align text-bottom :class lecture2
    [[file:./style/img/chat.png]]
-   LECTURE
 
 ** [[http://cse01-iiith.vlabs.ac.in/][Data Structures]]
    Data structures lab has experiments about how several fundamental algorithms work, particularly those concerned with sorting and searching.
    #+BEGIN_HTML
    <hr>
    #+END_HTML
-
+   #+ATTR_HTML: :width 25 :class lab3
    #+ATTR_HTML: :width 23  :vertical-align text-bottom;
    [[http://ps-iiith.vlabs.ac.in/][file:./style/img/flask.png]]
-   LAB
+   #+ATTR_HTML: :width 25 :class lecture3
    #+ATTR_HTML: :width 23  :vertical-align text-bottom;
    [[file:./style/img/chat.png]]
-   LECTURE
+   
 
 ** [[http://ce-iitb.vlabs.ac.in/][Chemical Engineering]]
    A collection of undergraduate experiments in Chemical Engineering.
    #+BEGIN_HTML
    <hr>
    #+END_HTML
-
+   #+ATTR_HTML: :width 25 :class lab4
    #+ATTR_HTML: :width 23  :vertical-align text-bottom;
    [[http://ps-iiith.vlabs.ac.in/][file:./style/img/flask.png]]
-   LAB
+   #+ATTR_HTML: :width 25 :class lecture4
    #+ATTR_HTML: :width 23  :vertical-align text-bottom;
    [[file:./style/img/chat.png]]
-   LECTURE
+  
 
 ** [[http://fab-coep.vlabs.ac.in/][FAB Laboratory]]
    Welcome to FAB LAB. Let us understand and implement anything and everything using 3D machining...
    #+BEGIN_HTML
    <hr>
    #+END_HTML
-   
+   #+ATTR_HTML: :width 25 :class lab5   
    #+ATTR_HTML: :width 23  :vertical-align text-bottom;
    [[http://ps-iiith.vlabs.ac.in/][file:./style/img/flask.png]]
-   LAB
+   #+ATTR_HTML: :width 25 :class lecture5
    #+ATTR_HTML: :width 23  :vertical-align text-bottom;
    [[file:./style/img/chat.png]]
-   LECTURE
+  
 
