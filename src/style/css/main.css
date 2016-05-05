@@ -1,4 +1,17 @@
+.text-normal-gray-smallest-lab {
+    color: #888;
+    font-size: 13px;
+    position: relative;
+    float: left
 
+}
+.text-normal-gray-smallest-lecture {
+    color: #888;
+    font-size: 13px;
+    position: relative;
+    float: right;
+    top: -80px;	       
+}
     
 h3
 {
