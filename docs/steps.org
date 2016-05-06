@@ -10,30 +10,6 @@
  - Emacs 24.1.1
  - prj.el
 * Installing a theme
-
-  A =#+SETUPFILE:= directive in the preamble to include the CSS and
-  JavaScript files, then export your Org mode file to HTML.
-
-You can either:
-
-- copy the "setup file" of the chosen theme to the directory of your Org files,
-
-  #+begin_src org :exports code
-  #+SETUPFILE: THEME-NAME.setup
-  #+end_src
-
-  or
-
-- use the (relative or absolute) path to the "setup file" (in your Git local
-  repository)
-
-  #+begin_src org :exports code
-  #+SETUPFILE: path/to/Git/repo/setup/THEME-NAME.setup
-  #+end_src
-
- Then export your Org mode file to HTML with =org-html-export-to-html= or with =C-c
- C-e h h=.
-
 ** level-0.org
 
 In order to use the =level-0= style, just copy the [[file:../src/org-templates/level-0.org][level 0]] file to
