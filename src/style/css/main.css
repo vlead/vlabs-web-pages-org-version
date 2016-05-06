@@ -1,9 +1,18 @@
-.text-normal-gray-smallest-lab {
+#feature-labs-table{
+    border-collapse: collapse; 
+    border: none;
+    outline: none;
+}
+#feature-labs-figures-table{
+    border: none;
+    color: gray;
+}
+.lab-text1 {
     color: #888;
     font-size: 13px;
     position: relative;
     float: left
-
+    width: 230px;
 }
 .text-normal-gray-smallest-lecture {
     color: #888;
@@ -13,11 +22,26 @@
     top: -80px;	       
 }
     
-h3
+#sec-1-1, #sec-1-2, #sec-1-3, #sec-1-4, #sec-1-5
 {
     font-size: 1.4em;
     font-weight: bold;
-    width: 230px; left: 0px; display: block;
+ 
+}
+#sec-1-1 {
+   width: 230px; left: 0px; display: block;
+}
+#sec-1-2 {
+   width: 230px; left: 0px; display: block;
+}
+#sec-1-3 {
+   width: 230px; left: 0px; display: block;
+}
+#sec-1-4 {
+   width: 230px; left: 0px; display: block;
+}
+#sec-1-5 {
+   width: 230px; left: 0px; display: block;
 }
 a {
     color: #3E6389;
@@ -48,14 +72,14 @@ hr{
 }
 h2 {
     
-    font-size: 24px;
+    font-size: 18px;
     margin: 0;
     width: 2330px; left: 0px; display: block;
     padding: 9px 0px 0px 10px;
 }
 
 .featured {
-    width: 2330px; left: 0px; display: block;
+    width: 2350px; left: 0px; display: block;
 }
 hr {
     background: #CCC none repeat scroll 0% 0% !important;
@@ -95,7 +119,6 @@ hr {
 
 }
 #outline-container-sec-1-3 {
-
     top: -607px;
     left: 470px;
 }
@@ -112,33 +135,148 @@ hr {
     font-size: 1.8em;
 }
 .breadcrumb {
-    width: 2500px;
+    width: 2300px;
 
 }
 .title {
    color: #888;
 }
-td {
-    width: 23px;
+table{
+    border:0px;
+    color: gray;
+}
+td.left {
+    width: 230px;
     vertical-align: text-bottom;
+    color: #888;
+    font-size: 16px;
+    padding: 10px;
 }
-#flask1 {
-    top: -303px;
-    left: 230px;
+th.left {
+    font-size: 16px;
+    color: #3E6389;
+    text-align: left;
+    padding: 5px;
 }
-#chat1{
-    top: -303px;
-    left: 230px;
+
+.lecture1, .lecture2, .lecture3, .lecture4, .lecture5 {
+    position: relative;
+    width: 30px;
+
 }
-.lab1, .lab2, .lab3, .lab4, .lab5{
+.lecture1 {
+    top: -101px;
+    left: -1024px;    
+}
+
+.lecture2 {
+    top: -258px;
+    left: -809px;
+}
+
+.lecture3 {
+    top: -414px;
+    left: -579px;    
+}
+
+.lecture4 {
+    top: -572px;
+    left: -341px;
+}
+.lecture5 {
+    top: -729px;
+    left: -119px;
+}
+.lab-text1, .lab-text2, .lab-text3, .lab-text4, .lab-text5 {
+    color: #888;
+    font-size: 13px;
+    position: relative;
     float: left;
-    position: relative;
-    width: 30px;
-    top: 0px;
+    width: 13px;
 }
-.lecture1, .lecture2, .lecture3, .lecture4, .lecture5{
-    top: -38px;
+.lab-text1 {
+    top: -70px;
+    left: 59px;
+}    
+.lab-text2 {
+    top: -229px;
+    left: 275px
+}    
+.lab-text3 {
+    top: -385px;
+    left: 502px;    
+}    
+.lab-text4 {
+    top: -543px;
+    left: 736px;
+}    
+.lab-text5 {
+    top: -700px;
+    left: 966px;
+}    
+
+.lecture-text1, .lecture-text2, .lecture-text3, .lecture-text4, .lecture-text5 {
+    color: #888;
+    font-size: 13px;
     position: relative;
-    float: middle;
+    float: left;
+    width: 13px;
+}
+.lecture-text1 {
+    top: -147px;
+    left: 142px;
+}
+.lecture-text2 {
+    top: -305px;
+    left: 357px;
+}
+.lecture-text3 {
+    top: -463px;
+    left: 588px;
+}
+.lecture-text4 {
+    top: -621px;
+    left: 825px;
+}
+.lecture-text5 {
+    top: -777px;
+    left: 1047px;
+}
+
+
+.lab1, .lab2, .lab3, .lab4, .lab5 {
+    position: relative;
     width: 30px;
+
+}
+.lab1 {
+    top: -13px;
+    left: -446px;
+}
+
+.lab2 {
+    top: -91px;
+    left: -554px;
+}
+
+.lab3 {
+    top: -170px;
+    left: -332px;    
+}
+
+.lab4 {
+    top: -248px;
+    left: -215px;
+}
+.lab5 {
+    top: -327px;
+    left: -100px;
+}
+
+.featured_labs_text {
+    min-height: 190px !important;
+    color: #888;
+    font-size: 16px;
+    margin: 0px 0px 10px;
+
 }
