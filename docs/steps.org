@@ -1,4 +1,4 @@
-#+title:  Steps to generate HTML using Org
+#+title:  How to generate HTML using Org
 #+SETUPFILE: ./org-templates/level-0.org 
 
 
