@@ -14,7 +14,7 @@
 | Welcome to the Problem Solving Virtual Lab developed at IIIT  Hyderabad. The interactive experiments... | Welcome to the Bio-Medical Signal and Image Processing Lab developed at IIT Roorkee... | Data structures lab has experiments about how several fundamental algorithms work, particularly those concerned with sorting and searching. | A collection of undergraduate experiments in Chemical Engineering. | Welcome to FAB LAB. Let us understand and implement anything and everything using 3D machining... |
 |---------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------+---------------------------------------------------------------------------------------------------|
 #+BEGIN_HTML
-<hr style="margin:2px">
+<hr style="width: 98%">
 #+END_HTML
    #+ATTR_HTML: :width 23  :vertical-align text-bottom :class lab1 
    [[http://ps-iiith.vlabs.ac.in/][file:./style/img/flask.png]]
