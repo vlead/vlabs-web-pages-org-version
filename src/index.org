@@ -1,8 +1,8 @@
 #+title:  Virtual Labs Landing page
 #+SETUPFILE: ./org-templates/level-0.org
-#+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="text/css" href="/style/css/main.css" />
+#+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="text/css" href="style/css/main.css" />
 
-#+ATTR_HTML: :width 840 :height 150
+#+ATTR_HTML: :width 1200 
 [[file:./style/img/banner_img.jpg]]
 
 * Featured Labs

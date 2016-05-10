@@ -11,9 +11,9 @@
 
 
 
-#+HTML_HEAD:  <link rel="stylesheet" type="text/css" href="/style/css/bootstrap.min.css" />
-#+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="text/css" href="/style/css/main.css" />
-#+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="image/png" href="/style/img/banner_img.png" />
+#+HTML_HEAD:  <link rel="stylesheet" type="text/css" href="style/css/bootstrap.min.css" />
+#+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="text/css" href="style/css/main.css" />
+
 
 
 
