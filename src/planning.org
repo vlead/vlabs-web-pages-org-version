@@ -1,0 +1,26 @@
+#+title:  Virtual Labs Landing page Planning
+
+* Planning
+The following are the different Templates/Themes :
+1) Landing page
+2) Disciplines and Domains/ Featured labs
+3) Partner Institutes
+4) Usage Page
+5) Pre-Requisites / QA Report pages
+6) FAQ Page
+7) Feedback
+
+Total : 7 Themes
+
+The following are the different HTML files that need to be converted to org files:
+
+1) Each discipline has 1 html page. There are 9 different HTML pages for all the Disciplines.
+2) Similarly Each partner Institute has 1 html page. There are 12 HTML pages for all the institutes.
+3) There are 5 Featured labs. Each lab has approx 10 experiments and one lab page. 5*10 = 50 experiment pages and 1*5 lab pages. Total 55 HTML Pages. (This contains only 5 labs out of 114 phase-II labs)
+4) Usage Page
+5) Pre-Requisites / QA Report pages
+6) FAQ Page
+7) Feedback
+8) Landing Page
+
+Total: 9+12+55+5 = 81 HTML Files
