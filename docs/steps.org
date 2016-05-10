@@ -14,29 +14,25 @@
 
 In order to use the =level-0= style, just copy the [[file:../src/org-templates/level-0.org][level 0]] file to
 your project and link to it this way:
-
-#+begin_src org :exports code
+#+BEGIN_EXAMPLE
 #+SETUPFILE: ./org-templates/level-0.org
-#+end_src
+#+END_EXAMPLE
 
 If you prefer, you can add the content of the setup file at the beginning of
 your Org file instead:
 
-#+begin_src org :exports code :tangle ../src/org-templates/level-0.org
-#+HTML_HEAD:  <link rel="stylesheet" type="text/css" href="/style/css/bootstrap.min.css" />
-#+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="text/css" href="/style/css/main.css" />
-#+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="image/png" href="/style/img/banner_img.png" />
-#+end_src
+#+BEGIN_EXAMPLE
+#+HTML_HEAD:  <link rel="stylesheet" type="text/css" href="style/css/bootstrap.min.css" />
+#+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="text/css" href="style/css/main.css" />
+#+END_EXAMPLE
 
-*** Local version
+** Local version
 
 Here a local version (using relative paths):
-
-#+begin_src org :exports code :tangle ../src/org-templates/level-0.org
-# -*- mode: org; -*-
-#+HTML_HEAD:  <link rel="stylesheet" type="text/css" href="/style/css/bootstrap.min.css" />
-#+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="text/css" href="/style/css/main.css" />
-#+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="image/png" href="/style/img/banner_img.png" />
-#+end_src
+#+BEGIN_EXAMPLE
+#+HTML_HEAD:  <link rel="stylesheet" type="text/css" href="style/css/bootstrap.min.css" />
+#+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="text/css" href="style/css/main.css" />
+#+HTML_HEAD_EXTRA:  <link rel="stylesheet" type="image/png" href="style/img/banner_img.png" />
+#+END_EXAMPLE
 
 * Steps
