@@ -24,3 +24,9 @@ The following are the different HTML files that need to be converted to org file
 8) Landing Page
 
 Total: 9+12+55+5 = 81 HTML Files
+
+** Updated planning
+
+Featured labs need not be converted for now. This will be taken care by the Integration Team. Hence no need to convert 55 HTML pages to org.
+
+Total : 9+12+5 = 26 HTML files
